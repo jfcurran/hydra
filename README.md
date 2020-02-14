@@ -325,7 +325,7 @@ Read [the security guide now](https://www.ory.sh/docs/next/hydra/security-archit
 ### Disclosing vulnerabilities
 
 If you think you found a security vulnerability, please refrain from posting it publicly on the forums, the chat, or GitHub
-and send us an email to [hi@ory.am](mailto:hi@ory.sh) instead.
+and send us an email to [hi@ory.sh](mailto:hi@ory.sh) instead.
 
 ## Benchmarks
 
